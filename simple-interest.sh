@@ -1,3 +1,4 @@
+# This script calculates simple interest.
 echo "Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
